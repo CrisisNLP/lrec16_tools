@@ -1,4 +1,4 @@
-# Twitter Resources for Crisis NLP
+# Resources for Research on Humanitarian Computing
 
 The following resources contain crisis-related datasets collected from Twitter, labeled tweets, out-of-vocabulary (OOV) dictionaries, and other related tools.
 
