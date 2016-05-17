@@ -7,7 +7,6 @@ The following resources contain crisis-related datasets collected from Twitter, 
 Muhammad Imran, Prasenjit Mitra, Carlos Castillo: **Twitter as a Lifeline: Human-annotated Twitter Corpora for NLP of Crisis-related Messages.** Accepted for publication at the 10th Language Resources and Evaluation Conference (LREC), 2016, Slovenia.
 
 # Crisis-related datasets details:
-
 | Crisis Type      | Crisis Name                      | Country            | Language | Number of Tweets | Start-date | End-date   |
 | :---             |:---                              |:---                |:---      |---:         | ---:       | ---:       |
 | Earthquake       | Nepal Earthquake                 | Nepal              | English  | 4,223,937   | 2015-04-25 | 2015-05-19 |
@@ -29,7 +28,6 @@ Muhammad Imran, Prasenjit Mitra, Carlos Castillo: **Twitter as a Lifeline: Human
 | Biological       | Middle East Respiratory Syndrome | Worldwide          | English  | 215,370     | 2014-04-27 | 2014-07-14 |
 | Biological       | Ebola virus outbreak             | Worldwide          | English  | 5,107,139   | 2014-08-02 | 2014-10-27 |
 | Airline Accident | Malaysia Airlines flight #MH370  | Malaysia           | English  | 4,507,157   | 2014-03-11 | 2014-07-12 |
-
 
 *Details of the labeled datasets and OOV dictionaries and download instructions will be available soon.*
 
