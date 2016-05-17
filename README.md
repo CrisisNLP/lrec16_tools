@@ -30,7 +30,8 @@ Muhammad Imran, Prasenjit Mitra, Carlos Castillo: **Twitter as a Lifeline: Human
 | Biological       | Ebola virus outbreak             | Worldwide          | English  | 5,107,139   | 2014-08-02 | 2014-10-27 |
 | Airline Accident | Malaysia Airlines flight #MH370  | Malaysia           | English  | 4,507,157   | 2014-03-11 | 2014-07-12 |
 
-Details of the labeled datasets and OOV dictionaries will be available soon.
+
+*Details of the labeled datasets and OOV dictionaries and download instructions will be available soon.*
 
 ---
 Thank you!
