@@ -1,15 +1,15 @@
 # Twitter Resources for Crisis NLP
 
-The following resources contain twitter crisis-related datasets, labeled tweets, out-of-vocabulary dictionaries, and other related tools.
+The following resources contain crisis-related datasets collected from Twitter, labeled tweets, out-of-vocabulary (OOV) dictionaries, and other related tools.
 
-Please cite the following article, if you use any of the following resoruces.
+**Please cite the following article, if you use any of the following resoruces.**
 
-Muhammad Imran, Prasenjit Mitra, Carlos Castillo: Twitter as a Lifeline: Human-annotated Twitter Corpora for NLP of Crisis-related Messages. Accepted for publication at the 10th Language Resources and Evaluation Conference (LREC), 2016, Slovenia.
+Muhammad Imran, Prasenjit Mitra, Carlos Castillo: **Twitter as a Lifeline: Human-annotated Twitter Corpora for NLP of Crisis-related Messages.** Accepted for publication at the 10th Language Resources and Evaluation Conference (LREC), 2016, Slovenia.
 
-# Crisis-related datasets details
+# Crisis-related datasets details:
 
-| Crisis Type      | Crisis Name                      | Country            | Language | # of Tweets | Start-date | End-date   |
-|------------------|----------------------------------|--------------------|----------|-------------|------------|------------|
+| Crisis Type      | Crisis Name                      | Country            | Language | Number of Tweets | Start-date | End-date   |
+| :---             |:---                              |:---                |:---      |---:         | ---:       | ---:       |
 | Earthquake       | Nepal Earthquake                 | Nepal              | English  | 4,223,937   | 2015-04-25 | 2015-05-19 |
 | Earthquake       | Terremoto Chile                  | Chile              | Chilean  | 842,209     | 2014-04-02 | 2014-04-10 |
 | Earthquake       | Chile Earthquake                 | Chile              | English  | 368,630     | 2014-04-02 | 2014-04-17 |
@@ -30,6 +30,7 @@ Muhammad Imran, Prasenjit Mitra, Carlos Castillo: Twitter as a Lifeline: Human-a
 | Biological       | Ebola virus outbreak             | Worldwide          | English  | 5,107,139   | 2014-08-02 | 2014-10-27 |
 | Airline Accident | Malaysia Airlines flight #MH370  | Malaysia           | English  | 4,507,157   | 2014-03-11 | 2014-07-12 |
 
+Details of the labeled datasets and OOV dictionaries will be available soon.
 
 ---
 Thank you!
