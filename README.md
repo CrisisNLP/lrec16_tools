@@ -1,4 +1,4 @@
-# Resources for Research on Humanitarian Computing
+## Resources for Research on Humanitarian Computing
 
 The following resources contain crisis-related datasets collected from Twitter, labeled tweets, dictionaries of out-of-vocabulary (OOV) words, and other related tools.
 
@@ -6,7 +6,7 @@ The following resources contain crisis-related datasets collected from Twitter, 
 
 Muhammad Imran, Prasenjit Mitra, Carlos Castillo: **Twitter as a Lifeline: Human-annotated Twitter Corpora for NLP of Crisis-related Messages.** _In Proceedings of the 10th Language Resources and Evaluation Conference (LREC)_, 2016, Slovenia.
 
-# Crisis-related datasets details:
+### Crisis-related datasets details:
 | Crisis Type      | Crisis Name                      | Country            | Language | Number of Tweets | Year
 | :---             |:---                              |:---                |:---      |---:         | ---:     
 | Earthquake       | [Nepal Earthquake](/resources/data/2015_Nepal_Earthquake_en)                 | Nepal              | English  | 4,223,937   | 2015
@@ -29,7 +29,7 @@ Muhammad Imran, Prasenjit Mitra, Carlos Castillo: **Twitter as a Lifeline: Human
 | Landslide        | Landslides worldwide             | Worldwide          | Spanish  | 75,244      | 2015
 | Airline Accident | Flight MH370                    | Malaysia           | English  | 4,507,157   | 2014
 
-## Resources that will be available soon!
+#### Resources that will be available soon!
 * Tweet ids of the above listed datasets (according to the [Twitter terms of service](https://dev.twitter.com/overview/terms/policy), we are not allowed to share full contents of the tweets, but tweet ids)
 * Sample tweets with full content for each dataset (less than 50k)
 * Tweets labeled by volunteers
