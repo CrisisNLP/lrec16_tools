@@ -35,6 +35,7 @@ Muhammad Imran, Prasenjit Mitra, Carlos Castillo: **Twitter as a Lifeline: Human
 * Tweets labeled by volunteers
 * Tweets labeled by paid-workers
 * OOV dictionaries of slangs, common acronyms, etc.
+* Word2vec word embeddings trained using 52 million tweets
 
 ---
 Thank you!
