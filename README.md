@@ -7,9 +7,9 @@ The following resources contain crisis-related datasets collected from Twitter, 
 Muhammad Imran, Prasenjit Mitra, Carlos Castillo: **Twitter as a Lifeline: Human-annotated Twitter Corpora for NLP of Crisis-related Messages.** Accepted for publication at the 10th Language Resources and Evaluation Conference (LREC), 2016, Slovenia.
 
 # Crisis-related datasets details:
-| Crisis Type      | Crisis Name                      | Country            | Language | Number of Tweets | Start-date | End-date   |
+| Crisis Type      | Crisis Name                      | Country            | Language | Number of Tweets | Start-date | End-date
 | :---             |:---                              |:---                |:---      |---:         | ---:       | ---:       |
-| Earthquake       | Nepal Earthquake                 | Nepal              | English  | 4,223,937   | 2015-04-25 | 2015-05-19 |
+| Earthquake       | Nepal Earthquake                 | Nepal              | English  | 4,223,937   | 2015-04-25 | 2015-05-19 
 | Earthquake       | Terremoto Chile                  | Chile              | Chilean  | 842,209     | 2014-04-02 | 2014-04-10 |
 | Earthquake       | Chile Earthquake                 | Chile              | English  | 368,630     | 2014-04-02 | 2014-04-17 |
 | Earthquake       | California Earthquake            | USA                | English  | 254,525     | 2014-08-24 | 2014-08-30 |
@@ -27,7 +27,7 @@ Muhammad Imran, Prasenjit Mitra, Carlos Castillo: **Twitter as a Lifeline: Human
 | Landslide        | Landslides worldwide             | Worldwide          | English  | 382,626     | 2014-05-28 | 2015-03-12 |
 | Landslide        | Landslides worldwide             | Worldwide          | French   | 17,329      | 2015-03-12 | 2015-06-23 |
 | Landslide        | Landslides worldwide             | Worldwide          | Spanish  | 75,244      | 2015-03-12 | 2015-06-23 |
-| Airline Accident | Flight MH370                    | Malaysia           | English  | 4,507,157   | 2014-03-11 | 2014-07-12 |
+| Airline Accident | Flight MH370                    | Malaysia           | English  | 4,507,157   | 2014-03-11 | 2014-07-12 | 
 
 ## Resources that will be available soon!
 * Tweet ids of the above listed datasets (according to the [Twitter terms of service](https://dev.twitter.com/overview/terms/policy), we are not allowed to share full contents of the tweets, but tweet ids)
