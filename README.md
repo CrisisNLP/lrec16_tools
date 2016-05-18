@@ -9,7 +9,7 @@ Muhammad Imran, Prasenjit Mitra, Carlos Castillo: **Twitter as a Lifeline: Human
 # Crisis-related datasets details:
 | Crisis Type      | Crisis Name                      | Country            | Language | Number of Tweets | Year
 | :---             |:---                              |:---                |:---      |---:         | ---:     
-| Earthquake       | Nepal Earthquake                 | Nepal              | English  | 4,223,937   | 2015
+| Earthquake       | [Nepal Earthquake](/resources/data/2015_Nepal_Earthquake_en)                 | Nepal              | English  | 4,223,937   | 2015
 | Earthquake       | Terremoto Chile                  | Chile              | Chilean  | 842,209     | 2014
 | Earthquake       | Chile Earthquake                 | Chile              | English  | 368,630     | 2014
 | Earthquake       | California Earthquake            | USA                | English  | 254,525     | 2014
