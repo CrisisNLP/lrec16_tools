@@ -1,6 +1,6 @@
 # Resources for Research on Humanitarian Computing
 
-The following resources contain crisis-related datasets collected from Twitter, labeled tweets, out-of-vocabulary (OOV) dictionaries, and other related tools.
+The following resources contain crisis-related datasets collected from Twitter, labeled tweets, dictionaries of out-of-vocabulary (OOV) words, and other related tools.
 
 **Please cite the following article, if you use any of the following resoruces.**
 
