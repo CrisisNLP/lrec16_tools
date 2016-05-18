@@ -30,7 +30,7 @@ Muhammad Imran, Prasenjit Mitra, Carlos Castillo: **Twitter as a Lifeline: Human
 | Airline Accident | Flight MH370                    | Malaysia           | English  | 4,507,157   | 2014-03-11 | 2014-07-12 |
 
 ## Resources that will be available soon!
-* Tweet ids of the above listed datasets (according to the Twitter terms of service, we cannot share full contents of the tweets)
+* Tweet ids of the above listed datasets (according to the [Twitter terms of service](https://dev.twitter.com/overview/terms/policy), we cannot share full contents of the tweets)
 * Sample tweets with content for each dataset (less than 50k)
 * Tweets labeled by volunteers
 * Tweets labeled by paid-workers
