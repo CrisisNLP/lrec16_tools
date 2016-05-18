@@ -10,9 +10,10 @@ Wikipedia link of the crisis: https://en.wikipedia.org/wiki/April_2015_Nepal_ear
 
 **Keywords/hashtags used in collection:** Basantapur, Patan, Anamnagar,Bhaktapur,Durbar Square, Nuwakot, Dharahara Tower, Gorkha, Lamjung, Khudi, Kathmandu, Sankhu, Sunsari,Solu district, Okhaldhunga, Nepal, nepal earthquake, ktmearthquake, IndiaWithNepal, NepalQuake, NepalQuakeRelief, NepalEarthquake, KathmanduQuake, KathmanduQuakeRelief, KathmanduEarthauqke, QuakeNepal, EarthquakeNepal, QuakeKathmandu, EarthquakeKathmandu, PrayForNepal
 
-## Labelled data
+## Labeled data details
+For this dataset, we have obtained labels from voluteers and paid-workers, as described below.
 
-## Labeling instructions for volunteers
+#### Labeling instructions for volunteers tasks
 
 **Instructions for task 1:**
 Indicate what type of information is provided in the message. This is a ranked list. If more than one information type is present, choose the one that appears first on the list
@@ -45,5 +46,5 @@ Describe the given tweet from Nepal Earthquake
 * Response Efforts---All info about responders. Affected populations receiving food, water, shelter, medication, etc. from humanitarian/emergency response organizations.
 * Not Relevant---Not related to the Nepal earthquake
 
-## Labeling instructions for paid workers
+#### Labeling instructions for paid workers
 Will be available soon.
