@@ -29,7 +29,12 @@ Muhammad Imran, Prasenjit Mitra, Carlos Castillo: **Twitter as a Lifeline: Human
 | Landslide        | Landslides worldwide (esp)       | Worldwide          | Spanish  | 75,244      | 2015-03-12 | 2015-06-23 |
 | Airline Accident | Malaysia Airlines flight #MH370  | Malaysia           | English  | 4,507,157   | 2014-03-11 | 2014-07-12 |
 
-*Details of the labeled datasets and OOV dictionaries and download instructions will be available soon.*
+## Resources that will be available soon!
+* Tweet ids of the above listed datasets (according to the Twitter terms of service, we cannot share full contents of the tweets)
+* Sample tweets with content for each dataset (less than 50k)
+* Tweets labeled by volunteers
+* Tweets labeled by paid-workers
+* OOV dictionaries of slangs, common acronyms, etc.
 
 ---
 Thank you!
