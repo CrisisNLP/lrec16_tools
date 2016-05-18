@@ -16,7 +16,7 @@ Muhammad Imran, Prasenjit Mitra, Carlos Castillo: **Twitter as a Lifeline: Human
 | Earthquake       | Pakistan Earthquake              | Pakistan           | English  | 156,905     | 2013-09-25 | 2013-10-10 |
 | Typhoon          | Cyclone PAM                      | Vanuatu            | English+ | 490,402     | 2015-03-11 | 2015-03-29 |
 | Typhoon          | Typhoon Hagupit                  | Phillippines       | English  | 625,976     | 2014-12-03 | 2014-12-16 |
-| Typhoon          | Hurricane Odile in Mexico        | Mexico             | English  | 62,058      | 2014-09-15 | 2014-09-28 |
+| Typhoon          | Hurricane Odile                  | Mexico             | English  | 62,058      | 2014-09-15 | 2014-09-28 |
 | Volcano          | Iceland Volcano                  | Iceland            | English  | 83,470      | 2014-08-25 | 2014-09-01 |
 | Floods           | Pakistan Floods                  | Pakistan           | English  | 1,236,610   | 2014-09-07 | 2014-09-22 |
 | Floods           | India Floods                     | India              | English  | 5,259,681   | 2014-08-10 | 2014-09-03 |
@@ -24,10 +24,10 @@ Muhammad Imran, Prasenjit Mitra, Carlos Castillo: **Twitter as a Lifeline: Human
 | War & Conflicts  | Peshawar Attack                  | Pakistan           | English  | 1,135,655   | 2014-12-16 | 2014-12-28 |
 | Biological       | Middle East Respiratory Syndrome | Worldwide          | English  | 215,370     | 2014-04-27 | 2014-07-14 |
 | Biological       | Ebola virus outbreak             | Worldwide          | English  | 5,107,139   | 2014-08-02 | 2014-10-27 |
-| Landslide        | Landslides worldwide (en)        | Worldwide          | English  | 382,626     | 2014-05-28 | 2015-03-12 |
-| Landslide        | Landslides worldwide (fr)        | Worldwide          | French   | 17,329      | 2015-03-12 | 2015-06-23 |
-| Landslide        | Landslides worldwide (esp)       | Worldwide          | Spanish  | 75,244      | 2015-03-12 | 2015-06-23 |
-| Airline Accident | Malaysia Airlines flight #MH370  | Malaysia           | English  | 4,507,157   | 2014-03-11 | 2014-07-12 |
+| Landslide        | Landslides worldwide             | Worldwide          | English  | 382,626     | 2014-05-28 | 2015-03-12 |
+| Landslide        | Landslides worldwide             | Worldwide          | French   | 17,329      | 2015-03-12 | 2015-06-23 |
+| Landslide        | Landslides worldwide             | Worldwide          | Spanish  | 75,244      | 2015-03-12 | 2015-06-23 |
+| Airline Accident | Flight MH370                    | Malaysia           | English  | 4,507,157   | 2014-03-11 | 2014-07-12 |
 
 ## Resources that will be available soon!
 * Tweet ids of the above listed datasets (according to the Twitter terms of service, we cannot share full contents of the tweets)
