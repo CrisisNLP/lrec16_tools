@@ -4,7 +4,7 @@ The following resources contain crisis-related datasets collected from Twitter, 
 
 **Please cite the following article, if you use any of the following resoruces.**
 
-Muhammad Imran, Prasenjit Mitra, Carlos Castillo: **Twitter as a Lifeline: Human-annotated Twitter Corpora for NLP of Crisis-related Messages.** Accepted for publication at the 10th Language Resources and Evaluation Conference (LREC), 2016, Slovenia.
+Muhammad Imran, Prasenjit Mitra, Carlos Castillo: **Twitter as a Lifeline: Human-annotated Twitter Corpora for NLP of Crisis-related Messages.** _In Proceedings of the 10th Language Resources and Evaluation Conference (LREC)_, 2016, Slovenia.
 
 # Crisis-related datasets details:
 | Crisis Type      | Crisis Name                      | Country            | Language | Number of Tweets | Year
