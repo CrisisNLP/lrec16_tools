@@ -1,8 +1,8 @@
 ## Resources for Research on Humanitarian Computing
 
-The following resources contain crisis-related datasets collected from Twitter, labeled tweets, dictionaries of out-of-vocabulary (OOV) words, and other related tools.
+The following resources contain crisis-related datasets collected from Twitter, labeled tweets, dictionaries of out-of-vocabulary (OOV) words, and other related tools. For more information about these resources, refer to the following paper.
 
-**Please cite the following article, if you use any of the following resoruces.**
+**Please cite the following paper, if you use any of these resoruces.**
 
 [Muhammad Imran](http://mimran.me/), Prasenjit Mitra, Carlos Castillo: **Twitter as a Lifeline: Human-annotated Twitter Corpora for NLP of Crisis-related Messages.** _In Proceedings of the 10th Language Resources and Evaluation Conference (LREC)_, 2016, Slovenia.
 
