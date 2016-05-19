@@ -5,8 +5,10 @@
 The following resources contain crisis-related datasets collected from Twitter, labeled tweets, dictionaries of out-of-vocabulary (OOV) words, and other related tools. For more information about these resources, see the following paper.
 
 **Please cite the following paper, if you use any of these resoruces.**
-
+_______________
 [Muhammad Imran](http://mimran.me/), Prasenjit Mitra, Carlos Castillo: **Twitter as a Lifeline: Human-annotated Twitter Corpora for NLP of Crisis-related Messages.** _In Proceedings of the 10th Language Resources and Evaluation Conference (LREC)_, 2016, Slovenia.
+_______________
+Subscribe to [CrisisNLP](https://groups.google.com/forum/\#!forum/crisisnlp) to receive announcements about these resources.
 
 ### Crisis-related datasets details:
 | Crisis Type      | Crisis Name                      | Country            | Language | Number of Tweets | Year
@@ -34,10 +36,12 @@ The following resources contain crisis-related datasets collected from Twitter, 
 #### Resources that will be available soon!
 * Tweet ids of the above listed datasets (according to the [Twitter terms of service](https://dev.twitter.com/overview/terms/policy), we are not allowed to share full contents of the tweets, but tweet ids and user ids)
 * Sample tweets with full content for each dataset (less than 50k)
-* Tweets labeled by volunteers
-* Tweets labeled by paid-workers
+* Tweets labeled by volunteers to humanitarian categories
+* Tweets labeled by paid-workers to humanitarian categories
 * OOV dictionaries of slangs, common acronyms, etc.
 * Word2vec word embeddings trained using 52 million tweets
+
+Subscribe to [CrisisNLP](https://groups.google.com/forum/\#!forum/crisisnlp) to receive announcements about these resources.
 
 ---
 Thank you!
