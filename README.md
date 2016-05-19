@@ -30,7 +30,7 @@ The following resources contain crisis-related datasets collected from Twitter, 
 | Airline Accident | Flight MH370                    | Malaysia           | English  | 4,507,157   | 2014
 
 #### Resources that will be available soon!
-* Tweet ids of the above listed datasets (according to the [Twitter terms of service](https://dev.twitter.com/overview/terms/policy), we are not allowed to share full contents of the tweets, but tweet ids)
+* Tweet ids of the above listed datasets (according to the [Twitter terms of service](https://dev.twitter.com/overview/terms/policy), we are not allowed to share full contents of the tweets, but tweet ids and user ids)
 * Sample tweets with full content for each dataset (less than 50k)
 * Tweets labeled by volunteers
 * Tweets labeled by paid-workers
