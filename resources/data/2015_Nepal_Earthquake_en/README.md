@@ -10,7 +10,7 @@ Wikipedia link of the crisis: https://en.wikipedia.org/wiki/April_2015_Nepal_ear
 
 **Keywords/hashtags used in collection:** Basantapur, Patan, Anamnagar,Bhaktapur,Durbar Square, Nuwakot, Dharahara Tower, Gorkha, Lamjung, Khudi, Kathmandu, Sankhu, Sunsari,Solu district, Okhaldhunga, Nepal, nepal earthquake, ktmearthquake, IndiaWithNepal, NepalQuake, NepalQuakeRelief, NepalEarthquake, KathmanduQuake, KathmanduQuakeRelief, KathmanduEarthauqke, QuakeNepal, EarthquakeNepal, QuakeKathmandu, EarthquakeKathmandu, PrayForNepal
 
-**Unlabeled data, which consists of (tweet-id, user-id) tuples, is available to download: [UNLABELED_NEPAL_DATA_V1.0.zip](/resources/data/2015_Nepal_Earthquake_en/raw_data/tweet_ids.zip?raw=true)**
+**Unlabeled data, which consists of (tweet-id, user-id) tuples, is available to download: [UNLABELED_NEPAL_DATA_V1.0.zip](/resources/data/2015_Nepal_Earthquake_en/raw_data/unlabeled_nepal_data_lrec16_v1.0.zip?raw=true)**
 
 ## Labeled data details
 For this dataset, we have obtained labels from voluteers and paid-workers, as described below.
