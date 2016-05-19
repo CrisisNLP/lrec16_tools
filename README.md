@@ -1,6 +1,6 @@
 ## Resources for Research on Humanitarian Computing
 
-![Alt text](/resources/misc/logo/crisisNLP-logo.jpg?raw=true)
+![Alt text](/resources/misc/logo/crisisNLP-logo.jpg?raw=true {width=20px height=200px})
 
 The following resources contain crisis-related datasets collected from Twitter, labeled tweets, dictionaries of out-of-vocabulary (OOV) words, and other related tools. For more information about these resources, see the following paper.
 
