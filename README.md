@@ -2,7 +2,7 @@
 
 <img src="/resources/misc/logo/crisisNLP-logo.jpg?raw=true" width="400">
 
-The following resources contain crisis-related datasets collected from Twitter, labeled tweets, dictionaries of out-of-vocabulary (OOV) words, and other related tools. For more information about these resources, see the following paper.
+The following resources contain crisis-related datasets collected from Twitter, labeled tweets, dictionaries of out-of-vocabulary (OOV) words, and other related tools. These resources are made available to advance the research on humanitarian computing. For more information about these resources, see the following paper.
 
 **Please cite the following paper, if you use any of these resoruces.**
 _______________
