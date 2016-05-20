@@ -45,6 +45,7 @@ Subscribe to [CrisisNLP](https://groups.google.com/forum/\#!forum/crisisnlp) to 
 Subscribe to [CrisisNLP](https://groups.google.com/forum/\#!forum/crisisnlp) to receive announcements about these resources.
 
 ---
-Thank you!
-
+Thank you! </br>
 Crisis NLP Team
+
+For inquiries, contact: [Muhammad Imran](mailto:nlp4crisis@gmail.com?subject=CrisisNLP)
