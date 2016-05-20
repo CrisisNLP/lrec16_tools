@@ -11,6 +11,8 @@ _______________
 _______________
 Subscribe to [CrisisNLP](https://groups.google.com/forum/\#!forum/crisisnlp) to receive announcements about these resources.
 
+Follow on us Twitter: [@NLP4Crisis](https://twitter.com/NLP4Crisis)
+
 ### Crisis-related datasets details:
 | Crisis Type      | Crisis Name                      | Country            | Language | Number of Tweets | Year
 | :---             |:---                              |:---                |:---      |---:         | ---:     
