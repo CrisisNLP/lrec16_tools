@@ -19,7 +19,7 @@ Follow us on Twitter: [@NLP4Crisis](https://twitter.com/NLP4Crisis)
 | Earthquake       | [Nepal Earthquake](/resources/data/2015_Nepal_Earthquake_en)                 | Nepal              | English  | 4,223,937   | 2015
 | Earthquake       | [Terremoto Chile](/resources/data/2014_Chile_Earthquake_cl)                  | Chile              | Spanish  | 842,209     | 2014
 | Earthquake       | [Chile Earthquake](/resources/data/2014_Chile_Earthquake_en)                 | Chile              | English  | 368,630     | 2014
-| Earthquake       | California Earthquake            | USA                | English  | 254,525     | 2014
+| Earthquake       | [California Earthquake](/resources/data/2014_California_Earthquake)            | USA                | English  | 254,525     | 2014
 | Earthquake       | Pakistan Earthquake              | Pakistan           | English  | 156,905     | 2013
 | Typhoon          | Cyclone PAM                      | Vanuatu            | English | 490,402     | 2015
 | Typhoon          | Typhoon Hagupit                  | Phillippines       | English  | 625,976     | 2014
