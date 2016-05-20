@@ -12,19 +12,7 @@ Wikipedia link of the crisis: https://en.wikipedia.org/wiki/2014_Iquique_earthqu
 
 **Keywords/hashtags used in collection:** #EarthquakeInChile, #ChileEarthquake, #chiletsunami, earthquake pisagua, earthquake antofagasta, earthquake arica, earthquake patache, earthquake iquique, earthquake chile, tsunami chile, tsunami pisagua, tsunami antofagasta, tsunami arica, tsunami patache, tsunami iquique,  #prayforarica, #prayforchile, #prayforiquique, #prayforpisagua, #prayforantofagasta
 
-**Data Format:** One tweet per line with comma-separated fields as follows:
-
-* tweet_id: corresponds to the string representation of the unique identifier for the tweet.
-* tweet_time: corresponds to the created_at field. This represents UTC time when this tweet was created.
-* tweet_author: corresponds to the screen name of the user of this tweet.
-* tweet_author_id: corresponds to the user_id of the tweet.
-* tweet_language: corresponds to the lang field of the tweet. When present, indicates a BCP 47 language identifier corresponding to the machine-detected language of the tweet text, or “und” if no language could be detected.
-* tweet_lon: corresponds to the coordinates (longitude) field of the tweet.
-* tweet_lat: corresponds to the coordinates (latitude) field of the tweet.
-* tweet_text: corresponds to the actual UTF-8 text of the tweet.
-* tweet_url: a made-up field represetns the URL of the tweet.
-* label: corresponds to the label given by humans.
-
+**Full dataset, which consists of ~368,630 tuples (tweet-id, user-id), is available to download: [UNLABELED_CHILE_EQ_2014_DATA_V1.0.zip](/resources/data/2014_Chile_Earthquake_en/chile_eq_en_ids_lrec16.zip?raw=true)**
 
 # Labeling instructions
 
