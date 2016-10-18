@@ -36,8 +36,13 @@ _______________
 | Landslide | Landslides worldwide | Worldwide | Spanish | 75,244 | 2015 |
 | Airline Accident | Flight MH370 | Malaysia | English | 4,507,157 | 2014 |
 
-#### The CrisisNLP website is down to due some server issues.
+### Resources available
+* Tweet ids of the above listed datasets (according to the [Twitter terms of service](https://dev.twitter.com/overview/terms/policy), we are not allowed to share full contents of the tweets, but tweet ids)
+* Human labeled tweets to humanitarian categories (tweet-id, human_label)
+* OOV dictionaries of slangs, common acronyms, etc.
+* Word2vec word embeddings trained on crisis-related tweets
 
+#### The CrisisNLP website is down to due some server issues.
 
 #### Please send us your data requests to [CrisisNLP team](mailto:nlp4crisis@gmail.com?subject=CrisisNLP), or if you have any query regarding the resources.
 ---
