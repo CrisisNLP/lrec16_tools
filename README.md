@@ -36,7 +36,7 @@ _______________
 | Landslide | Landslides worldwide | Worldwide | Spanish | 75,244 | 2015 |
 | Airline Accident | Flight MH370 | Malaysia | English | 4,507,157 | 2014 |
 
-#### The datasets are available at [CrisisNLP.qcri.org](crisisnlp.qcri.org)
+#### The datasets are available at: [CrisisNLP.qcri.org](http://crisisnlp.qcri.org/)
 
 #### For inquiries, please write to [CrisisNLP team](mailto:nlp4crisis@gmail.com?subject=CrisisNLP)
 ---
